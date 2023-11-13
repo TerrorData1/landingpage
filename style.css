@@ -82,6 +82,7 @@ label input:checked ~ .navigation{
 .navigation ul li:hover a{
   color: #000;
   background: rgba(255, 255, 255, 0.7);
+  border-radius: 20px;
 }
 .navigation ul li a::before{
   content: '';
